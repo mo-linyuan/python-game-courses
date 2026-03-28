@@ -1,0 +1,13 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local student outputs
+student_work/
+
+# OS files
+Thumbs.db
+Desktop.ini
